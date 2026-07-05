@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building AI Models with RAG features<br> 🌱 I’m currently learning Lang Chain, Lang Graph, AI <br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on building AI Models with RAG features<br> 🌱 I’m currently learning Lang Chain, Lang Graph, AI <br>✉️ Talk to me: bharathreddi18@gmail.com<br>
 
 
 ## 🌐 Socials:
