@@ -25,6 +25,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=bharath-avl&icon=0&color=0)](https://visitcount.itsvg.in)
+![Badge](https://hitscounter.dev/api/hit?url=github.com%2Fbharath-avl&label=Views&icon=github&color=%23198754&message=&style=flat&tz=UTC)
 
 
